@@ -13,6 +13,8 @@ Builds the app for production.
 pnpm start
 Runs the built app in production mode.
 
+pnpm run build
+
 We suggest that you begin by typing:
 
 cd nextjs-dashboard
