@@ -20,6 +20,7 @@ We suggest that you begin by typing:
 cd nextjs-dashboard
 pnpm run dev
 
-
+Email: user@nextmail.com
+Password: 123456
 
 
